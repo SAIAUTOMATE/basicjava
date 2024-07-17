@@ -2,7 +2,7 @@ package classes_methods;
 
 public class ClassObjectMethod {
 
-
+String help="youtube";
 	 int x=109;
 	public static void main(String[] args) {
 		System.out.println("yes tsatared:");
